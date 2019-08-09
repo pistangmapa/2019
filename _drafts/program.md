@@ -1,0 +1,74 @@
+---
+description: Working draft for PnM 2019 program.
+tags: 2019, PistaNgMapa
+---
+
+# Pista ng Mapa - Program
+
+![](https://maning.github.io/birds-mpbx-gljs/img/PnM_Marketing_Slide_10k.png)
+
+### Day 1
+
+| Time | Plenary hall (Sofia Hall)
+|---|---|
+| 08:00 | Registration |
+| 09:00 | National Anthem<br>Welcome remarks - **Chris Calumba** - Principal, Foundation Preparatory Academy  <br>Opening Remarks & Announcements <br> *Organizing team and Foundation University* |
+| 09:20 | Keynote Address <br> **People, Pixels, and Ice Cream** <br>Rene Sanapo, The Asia Foundation ([slide](),[video]())|
+| 10:00 | Group photo <br> Break at The Kennel |
+| 10:30 | - **Introduction to Open Communities**, Eugene Alvin Villar ([slide](),[video]()) <br> - **State of OpenStreetMap: Philippines**, Arnalie Faye Vicario ([slide](),[video]())<br> - **State of FOSS4G in the academe**, RK Aranas <br> - **Open Contracting and Hivos**, Ben Hur Pintor ([slide](),[video]())<br> - **OpenStreetMap and Grab: Bringing communities together in South East Asia**, Jinal Foflia ([slide](),[video]())<br> - **High-Accuracy Low-Cost Drone Mapping**, Rhea Lyn Dealca ([slide](),[video]())<br> |
+| 12:00 | Lunch at The Kennel|
+
+| **Time** | **Room 1 (CS Lab 1)** | **Room 2 (CS Lab 2)** | **Room 3 (IT Room)** |
+|----------|---------------|--------|--------|
+| 13:00 | **Data Storytelling with Open Contracting Data.**  Hands-on workshop bringing together journalists, open data enthusiasts, storytellers,  mappers, and visual artists to learn, be inspired, and to come up with their own version of data stories on public procurement. *Zack Lee (Hivos SEA,VOICE), Vino Lucero (PCIJ), Frei Sangil (Layertech Labs), Ben Hur Pintor (School of Data)*<br>([slide](),[video]()) | **Introduction workshop to OpenStreetMap.** Walk through the basics of contributing to the OpenStreetMap project, and learn how you can contribute to building the best free map of the Philippines.  *Arnalie Faye Vicario & Eugene Alvin Villar* <br>([slide](),[video]())| - |
+| 14:30 | Break at The Kennel | - | - |
+| 15:00 | **Geo&ast; Data Science with Python.** A hands-on introduction to the commonly used tools for implementing geo data science workflows with Python.  *Ian Panganiban* <br>([slide](),[video]())| **Human Experience Design for Maps.**  A quick hands-on workshop on how to use design thinking principles to create better maps. *Charmyne Mamador* <br>([slide](),[video]())| **OpenStreetMap Mapathon** <br> Mapping the fire stations of Negros Island *MapAm💜re* <br>([slide](),[video]())|
+| 16:30 | Break at The Kennel | - | - |
+| 17:00 | **Creating interactive maps using Mapbox GLJS.**  Find out how to use Mapbox GL JS, a JavaScript library that uses WebGL to render maps from vector tiles and Mapbox styles, to create an interactive map of threatened and endangered birds in the Philippines.  *Maning Sambale* <br>([slide](https://maning.github.io/birds-mpbx-gljs/),[video]())| **Collecting street-level imagery for the commons.**  Learn how to collect street-level ground imagery using smartphone or action cameras, using Mapillary or OpenStreetCam.  *Erwin Olario* <br>([slide](),[video]())| **OpenStreetMap Mapathon** Mapping pedestrian crossings with Pic4Review<br>*Rally de Leon* <br>([slide](),[video]()) |
+| 19:00 | Socials - TBD | - |
+
+### Day 2
+
+| Time | Plenary hall (Sofia Hall)
+|---------------|-----------------------------------|
+| 09:00 |**Lightning talks** <br>- S&T Infrastructure and Spatial Technology, Neyzielle Cadiz <br>- CWTS and Mapping, Ron Casingal <br>- Why I map and continue to volunter? Joseph Pada<br>- VGI for Local DRR planning, Monica Mendoza<br>- Tambayan Center, Rommel & Harley<br>- [Drones :heart: Robosat](https://github.com/maning/talkingpoints/issues/6), Maning Sambale <br>- PhilAware, Adityo<br>- Guagua Open Mapping for DRR, Aldwin Mallari<br>- MaptheGap, Ardie Orden| 
+| 10:00 | Break at The Kennel |
+
+| **Time** | **Room 1 (CS Lab 1)** | **Room 2 (CS Lab 2)** | **Room 3 (IT Room)** |
+|----------|---------------|--------|--------|
+| 10:30 | **Foregrounding spatial narratives against development aggression: methods, tools, and modes of countermapping** The panel/workshop on pioneering countermapping methodology to foreground experiences of violence and displacement of vulnerable groups due to land conversion and urban development. Participants will engage in a guided cognitive mapping and critical reflection exercise. *Cian Dayrit, Ony Martinez, Ben Hur Pintor, & Noreen Sapalo* <br>([slide](),[video]()) | **"DIY" imagery collection for mapping.**  This workshop introduces how to use high resolution imagery collected from off-the-shelf UAV devices for mapping in OpenStreetMap.  *Leonard Soriano, Ian Gongona, & Leigh Lunas* <br>([slide](),[video]())| **OpenStreetMap Mapathon** <br> *Humanitarian OpenStreetMap Team (HOT)* <br>([slide](),[video]())|
+| 12:00  | Lunch at The Kennel| - | - |
+| 13:30  | **Beyond the Basics with QGIS 3.X**. Learn about cool plugins in QGIS, new features of QGIS 3.X, advanced styling, digitizing and georeferencing, connecting Q to remote services, the QGIS graphical modeller, etc. *Ben Hur Pintor* <br>([slide](),[video]()) | **Datamining OpenStreetMap with Overpass Turbo.**  A hands-on crash course on web-based geodata mining, plus quick-and-dirty maps. No OpenStreetMap experience required. *Erwin Olario*  <br>([slide](),[video]())| **When women map.**  The Geoladies-led workshop will engage women to tell their stories and map places, spaces, and experiences that shaped them. Participants will form groups, exchange ideas, and map places using ID editor. *GeoLadies volunteers* <br>([slide](),[video]())|
+| 15:00 | Break at The Kennel | - | - |
+
+
+| Time | Plenary hall (Sofia Hall)
+|---------------|-----------------------------------|
+| 15:20 | **GeoLadies plenary session.** The Geoladies special session is a series of talks about how women navigate daily life, society, and the world. *GeoLadies volunteers* <br> - Evolution of the Woman Mapper, Jen Alconis ([slide]())<br> - Maptime and Philshore, Charmyne Mamador ([slide]())<br> - Arnalie Vicario ([slide]())<br> - Leigh Lunas ([slide]()) <br> [video]()
+|17:00 | **Closing Session** |
+
+### Day 3 Community/Field Mapping
+
+These are optional out-of-campus activities.
+* Field data collection for OpenStreetMap. 
+* Collecting aerial imagery with drones.
+
+---
+## Notes
+
+### Venue ([map](http://umap.openstreetmap.fr/en/map/pista-ng-mapa-2019_348810#18/9.30561/123.29964))
+* 1 Plenary (Sofia Hall) - big hall or auditorium that can accomodate the whole group (1,200 pax)
+* 2 Breakout rooms (CS Lab 1, CS Lab 2) - small rooms for 20-30 pax
+* 1 Mapathon room (IT Room)
+* Breakout and snacks (The Kennel)
+
+![Screen Shot 2019-07-29 at 11 07 42](https://user-images.githubusercontent.com/353700/62019375-29523980-b1f1-11e9-9392-af74ea568fa5.png)
+
+
+### Tapok-tapok/Birds-of-Feather
+* AI for mapping the country - DATOS
+* Future PH initiatives by HOTOSM
+* Students + NSTP-CWTS + DRR by MapAm💜re (Day 2 15:00)
+ 
+
+
