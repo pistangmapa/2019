@@ -4,6 +4,7 @@ layout: default
 
 <div class="home">
 
+  <img src="/2019/collaterals/PnM_Marketing_Slide_10k.png" />
   {% if site.posts.size > 0 %}
   <h2 class="post-list-heading">{{ page.list_title }}</h2>
     <ul class="post-list">
@@ -20,11 +21,7 @@ layout: default
             <a class="post-link post-title" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
           </h3>
           <div class="float-left post-excerpt">
-              {{ post.excerpt }}
-          </div>
-          <div class="clear-both"></div>
-          <div class="post-readmore">
-            <a href="{{ post.url | relative_url }}" class="button">Continue Reading</a>
+              {{ post.content }}
           </div>
         </li>
       {% endfor %}

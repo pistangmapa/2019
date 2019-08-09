@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Pista ng Mapa"
+title: "Pista ng Mapa 2019"
 author: "Admin"
 attribution: "Pista ng Mapa"
 attribution-url: "http://pistangmapa.github.io"
@@ -50,7 +50,7 @@ defaults:
 # this goes inside _config.yml. Change as required
 navigation:
 - text: Home
-  url: https://pistangmapa.github.io
+  url: /
 - text: "About"
   url: /about/
 
