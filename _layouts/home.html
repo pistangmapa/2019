@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <img src="/2019/collaterals/PnM_Marketing_Slide_10k.png" />
+  <img src="/2019/collaterals/PnM_Marketing_Slide_10k.png" alt="Pista ng Mapa, 2019" />
   {% if site.posts.size > 0 %}
   <h2 class="post-list-heading">{{ page.list_title }}</h2>
     <ul class="post-list">
@@ -17,11 +17,16 @@ layout: default
             {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
             {{ post.date | date: date_format }}
           </span>
-          <h3>
+          <h3> 
             <a class="post-link post-title" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
           </h3>
           <div class="float-left post-excerpt">
-              {{ post.content }}
+              <img class="float-right post-thumb" alt="{{ post.description | escape }}" src="../assets/images/{{ post.image }}_small.jpg" />
+              {{ post.excerpt }}
+          </div>
+          <div class="clear-both"></div>
+          <div class="post-readmore">
+            <a href="{{ post.url | relative_url }}" class="button">Continue Reading</a>
           </div>
         </li>
       {% endfor %}
