@@ -1,6 +1,6 @@
 # Website for Pista ng Mapa, 2019
 
-Visit the (website)[https://pistangmapa.github.io/2019].
+Visit the [website](https://pistangmapa.github.io/2019).
 
 ![](/collaterals/PnM_Marketing_Slide_10k.png)
 
