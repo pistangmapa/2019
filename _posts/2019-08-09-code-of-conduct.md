@@ -7,7 +7,6 @@ slideOptions:
   theme: 'moon'
   transition: 'fade'
 ---
-<!--more-->
 ### Summary
 
 The organizers are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. 
