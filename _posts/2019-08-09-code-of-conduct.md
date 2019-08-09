@@ -1,13 +1,13 @@
 ---
-title: Full Code of Conduct
+title: Code of Conduct
+author: "Maning Sambale"
 description: full code of conduct for mapping events
 tags: mapathon, mapamore
 slideOptions:
   theme: 'moon'
   transition: 'fade'
 ---
-# Code of Conduct (CoC)
-
+<!--more-->
 ### Summary
 
 The organizers are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. 
