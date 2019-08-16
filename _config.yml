@@ -53,6 +53,9 @@ navigation:
   url: /
 - text: "About"
   url: /about/
+- text: "Downloads"
+  url: /downloads/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
